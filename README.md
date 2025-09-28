@@ -9,7 +9,7 @@
 3) Оформить отчет в README-файле в GitHub-репозитории.
 
 ## Выполнение:
-uname -r
+uname -r  
 output: 6.8.0-55-generic
 
 mkdir kernel && cd kernel
@@ -35,6 +35,6 @@ sudo update-grub
 
 sudo grub-set-default 0
 
-uname -r
+uname -r  
 output: 6.16.9-061609-generic
 
